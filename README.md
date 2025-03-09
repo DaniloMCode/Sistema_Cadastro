@@ -31,13 +31,8 @@ Este projeto é um sistema de cadastro básico desenvolvido em PHP, utilizando u
 1.  Clone este repositório:
 
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
+    https://github.com/DaniloMCode/Sistema_Cadastro.git
     ```
-
-2.  Importe o arquivo `database.sql` para o seu banco de dados MySQL.
-3.  Configure as credenciais do banco de dados no arquivo `config/db.php`.
-4.  Inicie o servidor web e acesse o sistema através do seu navegador.
-
 ## Estrutura de Arquivos
 
 * `index.php`: Página principal após o login.
@@ -51,14 +46,7 @@ Este projeto é um sistema de cadastro básico desenvolvido em PHP, utilizando u
 ## Considerações
 
 * Este é um sistema de cadastro básico para fins de aprendizado.
-* Recomenda-se o uso de criptografia de senha segura (como `password_hash()` do PHP) em sistemas de produção.
-* Para segurança, nunca armazene informações confidenciais diretamente no código.
+* Uso de criptografia de senha segura (como `password_hash()` do PHP) em sistemas de produção.
 
-## Contribuição
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
-
-## Licença
-
-Este projeto está sob a licença [MIT](link da licença, se aplicável).
  
